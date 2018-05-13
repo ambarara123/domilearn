@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "633480145504",
+    "firebase_url": "https://domi-learn.firebaseio.com",
+    "project_id": "domi-learn"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633480145504:android:5d0c2e9912cfd31e",
+        "android_client_info": {
+          "package_name": "com.anything.domilearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633480145504-9k3n782p3h8k508avpgs6u5b2imkrt65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-AIBqpYPHQyc50Jg5tXyKnlCejbnB0oA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
